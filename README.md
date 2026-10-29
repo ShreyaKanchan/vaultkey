@@ -1,5 +1,9 @@
 # VaultKey
 
+> A local wallet-learning project that makes key generation, address derivation, message signing, and verification easy to inspect.
+
+![VaultKey](assets/logo.svg)
+
 Local wallet demo showing key generation, address derivation, and message signing with the Python standard library.
 
 ```bash
